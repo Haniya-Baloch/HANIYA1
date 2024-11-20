@@ -1,2 +1,2 @@
-from HANIYA1 import main
-main()
+from HANIYA1 import menu
+menu()
