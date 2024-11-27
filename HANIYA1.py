@@ -1,2 +1,2 @@
-from HANIYA1 import menu
-menu()
+from HANIYA1 import superuser
+superuser()
